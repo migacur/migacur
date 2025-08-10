@@ -7,10 +7,10 @@
 
 ## 💻 Algunos Proyectos
 - 📱 [Juego de preguntas y respuestas](https://github.com/migacur/vene-app-quiz)
-- 📚 [Biblioteca Virtual para una institución educativa](https://github.com/migacur/bibliotecavirtual-frontend))
+- 📚 [Biblioteca Virtual para una institución educativa](https://github.com/migacur/bibliotecavirtual-frontend)
 
 ## 🔗 Enlaces
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/miguel-acurero-a-2163311b2/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-acurero-a-2163311b2/)
 - 🌐 [Mi Portafolio](https://migacur.netlify.app/)
 
 <!--
