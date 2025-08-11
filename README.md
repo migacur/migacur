@@ -3,7 +3,7 @@
 
 ## 🚀 Habilidades
 - ⚛️ Desarrollo de apps con React Native y Expo.
-- 🌐 Creación de aplicaciones web fullstack.
+- 🌐 Creación de aplicaciones web fullstack con React y Nodejs.
 
 ## 💻 Algunos Proyectos
 - 📱 [Juego de preguntas y respuestas](https://github.com/migacur/vene-app-quiz)
