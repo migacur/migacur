@@ -5,7 +5,7 @@
 - ⚛️ Desarrollo de apps con React Native y Expo.
 - 🌐 Creación de aplicaciones web full stack con React y Nodejs.
 
-## 💻 Algunos Proyectos
+## 💻 Proyectos
 - 📱 [Juego de preguntas y respuestas](https://github.com/migacur/vene-app-quiz)
 - 📚 [Biblioteca Virtual para una institución educativa](https://github.com/migacur/bibliotecavirtual-frontend)
 
