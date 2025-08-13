@@ -1,9 +1,11 @@
 # Hola, soy Miguel Acurero 👋
 
+¤# ℹ️ Sobre mí
+
 Me dedico al desarrollo web y móvil, siempre en aprendizaje constante para mejorar mis habilidades y mantenerme actualizado.
 
 ## 🚀 Habilidades
-- ⚛️ Desarrollo de apps con React Native y Expo.
+- ⚛️ Desarrollo de aplicaciones móviles con React Native y Expo.
 - 🌐 Creación de aplicaciones web full stack con React y Nodejs.
 
 ## 💻 Proyectos
