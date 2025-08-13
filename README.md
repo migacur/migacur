@@ -1,6 +1,6 @@
 # Hola, soy Miguel Acurero 👋
 
-¤# ℹ️ Sobre mí
+## ℹ️ Sobre mí
 
 Me dedico al desarrollo web y móvil, siempre en aprendizaje constante para mejorar mis habilidades y mantenerme actualizado.
 
