@@ -5,7 +5,7 @@
 Me dedico al desarrollo full stack, siempre en aprendizaje constante para mejorar mis habilidades y ampliar mis conocimienetos.
 
 ## 🚀 Habilidades
-- 🌐 Creación de aplicaciones web full stack con React y Nodejs.
+- 🌐 Construcción	 de aplicaciones web full stack con React y Nodejs.
 - 📱 Desarrollo de aplicaciones móviles con React Native y Expo.
 - 🛢️ Manejo de base de datos relacionales (Mysql) y no relacionales (MongoDB).
 - 🛠️ Utilizo herramientas esenciales del desarrollo moderno: Git, GitHub, npm, VSCode, entre otras.
