@@ -13,7 +13,7 @@ Me dedico al desarrollo full stack, siempre en aprendizaje constante para mejora
 
 ## 💻 Proyectos
 - 📚 [Biblioteca Virtual para una institución educativa](https://github.com/migacur/bibliotecavirtual-frontend)
-- 🕹️ [Juego de preguntas y respuestas (Quiz)](https://github.com/migacur/vene-app-quiz)
+- 🕹️ [Juego de preguntas y respuestas para android (Quiz)](https://github.com/migacur/vene-app-quiz)
 
 ## 🔗 Enlaces
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel-acurero-a-2163311b2/)
