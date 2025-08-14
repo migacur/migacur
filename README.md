@@ -12,7 +12,7 @@ Me dedico al desarrollo full stack, siempre en aprendizaje constante para mejora
 
 
 ## 💻 Proyectos
-- 📚 [Biblioteca Virtual para una institución educativa](https://github.com/migacur/bibliotecavirtual-frontend)
+- 📚 [Biblioteca virtual para una institución educativa](https://github.com/migacur/bibliotecavirtual-frontend)
 - 🕹️ [Juego de preguntas y respuestas para android (Quiz)](https://github.com/migacur/vene-app-quiz)
 
 ## 🔗 Enlaces
