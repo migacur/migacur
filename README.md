@@ -8,7 +8,7 @@ Me dedico al desarrollo full stack, siempre en aprendizaje constante para mejora
 - 🌐 Construcción	 de aplicaciones web full stack con React y Nodejs.
 - 📱 Desarrollo de aplicaciones móviles con React Native y Expo.
 - 🛢️ Manejo de base de datos relacionales (Mysql) y no relacionales (MongoDB).
-- 🛠️ Utilizo herramientas esenciales del desarrollo moderno: Git, GitHub, npm, VSCode, entre otras.
+- 🛠️ Uso de herramientas esenciales en el desarrollo moderno: Git, GitHub, npm, VSCode, entre otras.
 
 
 ## 💻 Proyectos
