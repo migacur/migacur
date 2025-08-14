@@ -7,7 +7,7 @@ Me dedico al desarrollo full stack, siempre en aprendizaje constante para mejora
 ## 🚀 Habilidades
 - 🌐 Creación de aplicaciones web full stack con React y Nodejs.
 - ⚛️ Desarrollo de aplicaciones móviles con React Native y Expo.
-- :memo: Manejo de base de datos relacionales (Mysql) y no relacionales (MongoDB).
+- 🛢️ Manejo de base de datos relacionales (Mysql) y no relacionales (MongoDB).
 
 
 ## 💻 Proyectos
