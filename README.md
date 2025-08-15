@@ -2,7 +2,7 @@
 
 ## :bust_in_silhouette: Sobre mí
 
-Me dedico al desarrollo full stack, siempre en aprendizaje constante para mejorar mis habilidades y ampliar mis conocimienetos.
+Soy desarrollador full stack, siempre estoy en aprendizaje constante para mejorar mis habilidades, ampliar mis conocimienetos y mantenerme actualizado con las tendencias actuales en el mundo de la programación.
 
 ## 🚀 Habilidades
 - 🌐 Construcción	 de aplicaciones web full stack con React y Nodejs.
